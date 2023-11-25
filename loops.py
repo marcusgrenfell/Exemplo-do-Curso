@@ -22,4 +22,4 @@ while numero != len(clientes):
     numero=numero+1
 
 
-print("Deu serto")
+print("Deu certo")
