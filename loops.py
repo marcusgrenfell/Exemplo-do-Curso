@@ -12,7 +12,7 @@ for x in clientes:
 """
 
 clientes=[]
-clientes.append("Marcus")
+clientes.append("Vinicius")
 clientes.append("Gustavo")
 clientes.append("Guilherme")
 
@@ -20,3 +20,6 @@ numero=0
 while numero != len(clientes):
     print("Cliente:",clientes[numero]," Numero:",numero)
     numero=numero+1
+
+
+print("Deu serto")
